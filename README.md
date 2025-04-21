@@ -13,6 +13,14 @@
 - 📅 Future Plan: eJPT → CEH → OSCP → Security+  
 - ⚡ Fun fact: I can hack and code all day with a smile 😎
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&row=1&column=6" />
+</p>
+
 ---
 
 🛠️ **Tech Stack:**
@@ -24,10 +32,3 @@
 💡 Still learning and leveling up every day!
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&row=1&column=6" />
-</p>
