@@ -5,11 +5,11 @@
 
 🚀 **About Me:**
 
-- 👨‍💻 I’m currently diving deep into **Web Development**, **Cybersecurity**, and **Ethical Hacking**  
+- 👨‍💻 I’m currently diving deep into **Web Development**, **Cybersecurity**, **Pentesting** and **Ethical Hacking**  
 - 🎯 Goal: Become a professional **Penetration Tester** and **Top Ethical Hacker in India**  
-- 🔐 I practice ethical hacking on platforms like **TryHackMe**, **Hack The Box**, and **Bugcrowd**  
+- 🔐 I practice ethical hacking on platforms like **TryHackMe**, **Hackhe Box**, and **Bugcrowd**  
 - 💻 Passionate about building things, breaking things, and learning how everything works  
-- 📚 Currently learning: `React.js`, `Node.js`, `MongoDB`, `Kali Linux`, `PHP`, `Django`, `Flask`  
+- 📚 Currently learning: `React.js`, `Node.js`, `C`, `C++`.  
 - 📅 Future Plan: eJPT → CEH → OSCP → Security+  
 - ⚡ Fun fact: I can hack and code all day with a smile 😎
 
@@ -17,9 +17,8 @@
 
 🛠️ **Tech Stack:**
 
-```bash
-💻 Languages: HTML, CSS, JavaScript, Python, PHP  
-🌐 Frameworks: React.js, Django, Flask, Tailwind CSS, Bootstrap  
+```bash T
+💻 Languages: HTML, CSS, JavaScript,React js  
+🌐 Frameworks: React.js, Tailwind CSS, Bootstrap  
 🛠️ Tools: Kali Linux, Nmap, Burp Suite, Metasploit, Git  
-📚 DBs: MongoDB, MySQL  
 💡 Still learning and leveling up every day!
