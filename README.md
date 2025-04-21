@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ishant Kumar</h1>
 <h3 align="center">Aspiring Software Engineer | Ethical Hacker | Penetration Tester</h3>
 
----
+- Hi, I create a AI voice assistant using HTML,CSS and JS with puter.js [Atlas Virtual AI Assistant](https://ishant64.github.io/Atlas-AI-voice-assistant/)
 
-🚀 **About Me:**
+- 🌱 I’m currently learning **React.js, Nodejs, C and C++**
 
-- 👨‍💻 I’m currently diving deep into **Web Development**, **Cybersecurity**, **Pentesting** and **Ethical Hacking**  
-- 🎯 Goal: Become a professional **Penetration Tester** and **Top Ethical Hacker in India**  
-- 🔐 I practice ethical hacking on platforms like **TryHackMe**, **Hackhe Box**, and **Bugcrowd**  
-- 💻 Passionate about building things, breaking things, and learning how everything works  
-- 📚 Currently learning: `React.js`, `Node.js`, `C`, `C++`
-- 📅 Future Plan: eJPT → CEH → OSCP → Security+  
-- ⚡ Fun fact: I can hack and code all day with a smile 😎
----
+- 💬 Ask me about **HTML, CSS, JavaScript and React.js**
 
-🛠️ **Tech Stack:**
+- 📫 How to reach me **ishant.csa@gmail.com**
 
-```bash T
-💻 Languages: HTML, CSS, JavaScript,React js  
-🌐 Frameworks: React.js, Tailwind CSS, Bootstrap  
-🛠️ Tools: Kali Linux, Nmap, Burp Suite, Metasploit, Git  
-💡 Still learning and leveling up every day!
+- ⚡ Fun fact **I can hack and code all day with a smile 😎**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/ishantkuma63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ishantkuma63" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishant-kumar-96b538326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishant-kumar-96b538326/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
