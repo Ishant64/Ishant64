@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="https://x.com/ishantkuma63" target="blank" style="margin-left: 15px;">
+  <a href="https://x.com/ishantkuma63" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ishant-kumar-96b538326/" target="blank" style="margin-right: 15px;">
