@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<div align="left">
   <a href="https://x.com/ishantkuma63" target="blank" style="margin-left: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
@@ -43,7 +43,7 @@
   <a href="https://www.instagram.com/yash_dhamija_1111/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-</p>
+</div>
 
 
 
