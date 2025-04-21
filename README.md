@@ -9,7 +9,7 @@
 - 🎯 Goal: Become a professional **Penetration Tester** and **Top Ethical Hacker in India**  
 - 🔐 I practice ethical hacking on platforms like **TryHackMe**, **Hackhe Box**, and **Bugcrowd**  
 - 💻 Passionate about building things, breaking things, and learning how everything works  
-- 📚 Currently learning: `React.js`, `Node.js`, `C`, `C++`.  
+- 📚 Currently learning: `React.js`, `Node.js`, `C`, `C++`
 - 📅 Future Plan: eJPT → CEH → OSCP → Security+  
 - ⚡ Fun fact: I can hack and code all day with a smile 😎
 
