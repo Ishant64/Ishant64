@@ -3,7 +3,7 @@
 
 - Hi, I create a AI voice assistant using HTML,CSS and JS with puter.js [Atlas Virtual AI Assistant](https://ishant64.github.io/Atlas-AI-voice-assistant/)
 
-- 🌱 I’m currently learning **React.js, Nodejs, C and C++**
+- 🌱 I’m currently learning ** Nodejs, C and C++**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React.js**
 
